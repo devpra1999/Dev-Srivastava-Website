@@ -13,8 +13,8 @@ const Navigation: React.FC = () => {
     { href: '/', label: 'Home' },
     { href: '/about', label: 'About' },
     { href: '/research', label: 'Research' },
-    { href: '/teaching', label: 'Teaching' },
-    { href: '/blog', label: 'Blog' },
+    //{ href: '/teaching', label: 'Teaching' },
+    //{ href: '/blog', label: 'Blog' },
     { href: '/cv', label: 'CV' },
     { href: '/contact', label: 'Contact' },
   ]
