@@ -11,7 +11,7 @@ const Home: React.FC = () => {
           {/* Profile Photo */}
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
-              DS
+              <img src="/profile-photo.jpg" alt="Profile Photo" className="w-full h-full object-cover"/>
             </div>
           </div>
           
